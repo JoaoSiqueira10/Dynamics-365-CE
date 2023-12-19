@@ -1,0 +1,74 @@
+# Visual Studio Code
+.vscode/
+
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Resharper
+_ReSharper*/
+
+# Rider
+.idea/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Dynamics 365 CE specific files
+XrmServiceToolkit/
+XrmUnitTest/
+
+# .NET
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio for Mac
+.vscode/
+.idea/
+
+# Rider
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code folders
+.vscode/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
